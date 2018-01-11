@@ -1,0 +1,148 @@
+/** Footer */
+
+.outer-wrap-footer {
+    background: rgba(0, 0, 0, 0.15);
+}
+
+.site-footer {
+    color: @silver;
+    padding-top: 1.5rem;
+    background: url(@footerImg) no-repeat #000;
+
+    p {
+        color: @silver-light;
+    }
+
+    a:link,
+    a:visited {
+        text-decoration: none;
+        color: @silver;
+    }
+
+    a:active,
+    a:hover {
+        color: @silver-light;
+    }
+}
+
+.footer-column {
+    text-align: center;
+    color: @gradient-two;
+
+    a:link,
+    a:visited {
+        color: @gradient-one;
+    }
+}
+
+/** Header */
+
+.site-logo-text {
+    a:link,
+    a:visited {
+        color: @silver;
+    }
+
+    a:hover,
+    a:active {
+        color: @silver-light;
+    }
+}
+
+.navbar2 {
+    ul {
+        li {
+            box-sizing: border-box;
+            height: 64px;
+            transition: 0.5s;
+
+            a:link,
+            a:visited {
+                color: @silver;
+            }
+
+            a:active,
+            a:hover {
+                color: @silver-dark;
+            }
+        }
+        li:hover {
+            border-bottom: 5px solid @silver;
+            transition: 0.5s;
+        }
+
+        li.selected {
+            border-bottom: 5px solid @silver;
+        }
+    }
+}
+
+.route- {
+    .inner-wrap-header {
+        background: url(@headerImg) center top no-repeat;
+        border-bottom: 4px solid #000;
+    }
+    .inner-wrap-header::after {
+        color: #fff;
+    }
+}
+
+.rm-max {
+    .rm-small {
+        .rm-button {
+            color: @silver;
+        }
+    }
+}
+
+/** Main layout elements.
+ * Background from Subtle Patterns
+ */
+
+ body {
+     background: url('../img/perspective.png') center center no-repeat #fff;
+     background-attachment: fixed;
+     font-weight: 100;
+ }
+
+ .breadcrumb-list {
+     ul {
+         #hgrid .fontSize(@fontSizeH2);
+     }
+}
+
+.wrap-all {
+    background: rgba(255, 255, 255, 0.85);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: @silver-darkest;
+}
+
+h1 {
+    font-weight: 700;
+    border: 0;
+}
+
+h1:first-of-type {
+    display: none;
+}
+
+.blog-list-item h1 {
+    display: block;
+}
+
+a:link,
+a:visited {
+    color: @silver-dark;
+}
+
+a:active,
+a:hover {
+    color: @silver;
+}
+
+main.has-sidebar-right {
+    border-right: 15px solid rgba(0, 0, 0, 0.15);
+    padding-right: 15px;
+}

@@ -1,0 +1,120 @@
+/**
+ * Very basic styling for the header.
+ */
+.site-logo-text {
+    #hgrid .fontSize(@fontSizeH2);
+
+    a {
+        text-decoration: none;
+    }
+
+    font-family: @headerFont;
+}
+
+.logo-1 {
+    display: none;
+}
+
+.site-logo-text-icon {
+    img {
+        vertical-align: middle;
+    }
+}
+
+.navbar2 {
+    ul {
+        padding-left: 5%;
+        width: 100%;
+        text-align: right;
+        li {
+
+            a:link {
+                min-width: 80px;
+                padding: 1.2632em 4px;
+                text-align: center;
+            }
+            a:visited,
+            a:active,
+            a:hover {
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+.route- {
+    .inner-wrap-header {
+        height: 100vh;
+    }
+
+    .inner-wrap-header::after {
+        content: "There are secrets to success";
+        display: block;
+        margin: 50vh auto 0 auto;
+        color: #000;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: @quoteFont;
+        #hgrid .fontSize(@fontSizeH7);
+    }
+
+    .outer-wrap {
+        .inner-wrap-flash {
+            display: none;
+        }
+    }
+}
+
+.inner-wrap-flash {
+    .row {
+        .flash-wrap {
+            margin: 0;
+            width: 100%;
+
+            img {
+                max-width: 100%;
+            }
+        }
+    }
+}
+
+.inner-wrap-header {
+    .row {
+        position: fixed;
+        background: rgba(255, 255, 255, 0.9);
+    }
+}
+
+.breadcrumb-list {
+    ul {
+        list-style-type: none;
+        padding: 5px 0;
+        margin: 0;
+        font-family: @customHeadings;
+        text-align: center;
+
+        li {
+            display: inline-block;
+            padding: 0 15px;
+
+            a:link {
+                text-decoration: none;
+            }
+            a:visited,
+            a:active,
+            a:hover {
+                text-decoration: none;
+            }
+        }
+
+        li:first-child::before {
+            content: "";
+            display: none;
+        }
+
+        li:last-child {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+    }
+}

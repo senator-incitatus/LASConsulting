@@ -1,0 +1,12 @@
+.showGrid(@maxWidth, @gridImage) {
+    background: url("@{gridImage}") repeat fixed center center;
+    background-size: 100% auto;
+
+    @media (min-width: @maxWidth) {
+        background-size: @maxWidth auto;
+    }
+}
+
+.showHGrid(@hGridImage) {
+    background: url(@hGridImage);
+}
