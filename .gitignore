@@ -1,2 +1,4 @@
 cache
 vendor
+theme/build/
+theme/node_modules/
