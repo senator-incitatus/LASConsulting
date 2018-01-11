@@ -1,3 +1,1 @@
-#### A Strange Place
-
-*Normal is the average of deviance.* - Rita Mae Brown
+*Leadership is practiced not so much in words as in attitude and in actions.*

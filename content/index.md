@@ -1,20 +1,18 @@
 ---
-titleBreadcrumb: Home
+views:
+    sidebar1:
+        region: sidebar-left
+        template: default/content
+        data:
+            meta:
+                type: content
+                route: block/main-col-1
 ...
-The Lair of Incitatus
+LAS Executive Consulting
 ===============================
 
-[FIGURE src="img/esra_avatar.jpg" class="left w25"]
+LAS Consulting is a leading consulting company worldwide. With over two decades of experience, we have helped more than a thousand individual clients&mdash;from polishing something already good, to bringing them back from the brink of ruin. No task is too small. No problem is too intricate. No area is too remote; LAS Consulting has more than a hundred skilled employees scattered worldwide.
 
-Hi!
+We at LAS Consulting follow a well-developed method of work with documented high success rate, and a solid foundation rooted in contemporary research. We facilitate discussion and planning, we improve work environment, and we educate executives in leadership and good work ethics.
 
-I am Incitatus, and I'm currently studying web programming at BTH.
-
-I am somewhat of a vampire in terms of rarely getting stuck in pictures - alternatively, I don't have a lot of photo-happy friends, you decide - so this one of me, dressed up as a werewolf, is not only less than a year old, but also a favorite. I *am* rather proud of that costume, so it's not like I mind flinging it at everyone...
-
-[FIGURE src="img/jagoathena.jpg" class="right w50"]
-
-I am a northern soul living on the Swedish west coast. I have a huge derpy horse, whom I love dearly and spend a lot of time with. I also have two fluffy cats, but they prefer being anonymous. Cats, y'know. ;)
-
-Web design and programming is something I've been poking at for over a decade now. I took my first steps in the early 00s, picking apart HTML tables and discovering the wonders of the *colspan* property. Slowly I gravitated to the realm of CSS, learning both the basics and some of its more complicated uses. I first touched PHP back in 2012, and began experimenting with jQuery thereabouts as well. There's been huge gaps in my knowledge due to the fact that I've worked almost exclusively within the software MyBB, but, meh. I've been having fun, and I'm still having fun learning properly!
-<br style="clear: both;" />
+We help you to bring your company into a better, brighter future.

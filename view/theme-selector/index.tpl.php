@@ -3,7 +3,7 @@
  * Theme selector in the design course.
  */
 
-?><article>
+?><article style="margin-top: 78px;">
 <h1>Theme selector</h1>
 
 <form method="post">
@@ -28,7 +28,7 @@
                 </option>
             <?php endforeach; ?>
         </select>
-        
+
         <output>
             <?php if ($message) : ?>
                 <p><?= $message ?></p>

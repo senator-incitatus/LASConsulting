@@ -1,34 +1,21 @@
 ---
-author: incitatus
-published: "2017-12-03"
+author: LAS
+published: "2017-12-20"
 category:
-    - dagens bild
+    - company news
 ...
-En massa mjuka saker
+Winter Holidays
 ==================================
 
-[FIGURE src="image/soffa.JPG?w=623&h=150&a=20,40,20,0&cf&q=80" class="center"]
-
-Mjukisdjur..?
+Christmas is rapidly approaching! The majority of the LAS Consulting offices close over Christmas and New Years, opening again on the 4th. We'll see you in the next year!
 
 
 <!--more-->
 
+### Happy Holidays {#happy}
 
+[FIGURE src="image/sunnyguys.jpg?q=90" class="center" caption="Wishing **You** The Best Holiday! From Office #12!"]
 
-Olika varianter {#varianter}
------------------------------------
+With the exception of a few, LAS Consulting's offices will be closed from tomorrow (December 21st) until January 4th. Please contact your local LAS Consulting office for their specific opening hours.
 
-[FIGURE src="image/soffa.JPG?w=303&h=200&a=10,70,0,0&cf&q=80" class="left w50"]
-[FIGURE src="image/soffa.JPG?w=303&h=200&a=20,45,20,20&cf&q=80" class="right w50"]
-
-<br style="clear: both;" />
-
-[FIGURE src="image/soffa.JPG?w=623&a=20,0,20,50&cf&q=80" class="center" caption="En haj man klappar åt fel håll..."]
-
-[FIGURE src="image/soffa.JPG?w=623&a=20,0,20,0&cf&q=80&f=grayscale&f0=brightness,40&f1=contrast,-20&sharpen" class="center"]
-
-Om bilden {#om}
------------------------------------
-
-Min lilla kisse, Freddy, med några av mina guilty pleasure-gosedjur. (IKEA-hajar är ett förträffligt bokstöd att ha i knät...) Bara en vardagsbild. Tagen med en Sony Xperia Z5.
+Happy holidays! We look forward to seeing you in 2018.

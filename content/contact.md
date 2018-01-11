@@ -1,4 +1,4 @@
 Contact
 ==============================================
 
-Any questions about the site would, under better circumstances, be emailed to Incitatus. As it is, Incitatus isn't too happy about putting their email on mock web pages, so you'll have to use your imagination.
+If you have any questions regarding LAS Consulting, do not hesitate to contact us at info@lasconsulting.net or call us at +1-202-555-0190!

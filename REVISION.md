@@ -1,3 +1,8 @@
+v10.0.0 (2018-01-11)
+---------------------------------------
+* Adapted from Incitatus Anax Flat
+* Website completed, including content and themes
+
 v6.0.0(2018-01-03)
 ---------------------------------------
 * Added design element and principle pages

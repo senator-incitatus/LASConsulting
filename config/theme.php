@@ -17,11 +17,11 @@ return [
             "bodyClass"     => [],
             "lang"          => "en",
             "charset"       => "utf-8",
-            "title_append"  => " | Incitatus",
-            "favicon"       => "img/favicon/favicon_256x256.png",
+            "title_append"  => " | LAS Consulting",
+            "favicon"       => "img/favicon/favicon_16x16.ico",
 
             // Style and stylesheets
-            "stylesheets" => ["css/default.min.css"],
+            "stylesheets" => ["css/gradient.min.css"],
             // "stylesheets" => ["css/style.min.css"],
             "styleInline" => null,
 
@@ -42,7 +42,7 @@ return [
             "template" => "default/image",
             "data" => [
                 "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
+                "src" => "",
                 "alt" => "Logo",
             ],
             "sort" => 1
@@ -52,8 +52,8 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "The Lair of Incitatus",
-                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                "siteLogoText"  => "Executive Consulting",
+                "siteLogoTextIcon" => "img/favicon/LAS_logo_40.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",

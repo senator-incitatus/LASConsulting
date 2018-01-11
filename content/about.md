@@ -1,10 +1,12 @@
-About this site
+About LAS Consulting
 ==============================================
 
-This site is part of my studies at BTH, specifically for the [dbwebb course design](http://dbwebb.se/design). It focuses on frameworks - specifically Anax Flat - and, unsurprisingly, website design.
+[FIGURE src="image/ludviga.jpg?w=400&q=90&a=0,20,20,0" class="right" caption="Ludviga Af Solstråle"]
 
-You can find my GitHub repo for my "me site" [here](https://github.com/senator-incitatus/anax-flat). If you wish to view the repo for the theme, it is located [here](https://github.com/senator-incitatus/anax-flat-theme).
+LAS Consulting began in 1995. Ludviga Af Solstråle founded the company back in Stockholm, Sweden, under the name of Solstråle Consulting. In 2001, the company changed name to LAS Consulting and moved headquarters to Harrisburg, Pennsylvania.
 
-[FIGURE src="image/keyboard.jpg?w=784" class="center"]
+LAS Consulting currently serves clients worldwide, and works out of 17 offices spread across all continents, barring Antarctica. Please [contact us](contact) if you have any inquires about the assistance we are able to offer at your geographic location.
 
-Oh, and if nothing else is mentioned about the images used around here - they're either my own, or from [pixabay](http://pixabay.com).
+This website was designed by Incitatus, to be our new platform for reaching our clients, both new and old. It should offer up-to-date information about our services and going-ons, while also giving room for publishing thoughts about our principles and ethics. Visually, it should appeal to the high-end business corporations that are our primary target audience.
+
+The images used are from [unsplash](https://unsplash.com/), thank-you goes to the users: vanschneider, samuelzeller, mikofilm, samsonyyc, franzharvin, jonathanvez, hermez777, nikarthur, kyleunderscorehead, and rawpixel.

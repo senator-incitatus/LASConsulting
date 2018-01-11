@@ -14,13 +14,6 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "report" => [
-                "text"  => t("Report"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
-                "mark-if-parent" => true,
-            ],
-
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -33,34 +26,10 @@ return [
                 "title" => t("The blog")
             ],
 
-            "analysis" => [
-                "text" => t("Analysis"),
-                "url" => $this->di->get("url")->create("analysis"),
-                "title" => t("Color analyses")
-            ],
-
-            "grid" => [
-                "text" => t("Grid"),
-                "url" => $this->di->get("url")->create("grid"),
-                "title" => t("Grid test page")
-            ],
-
-            "typography" => [
-                "text" => t("Typography"),
-                "url" => $this->di->get("url")->create("typography"),
-                "title" => t("Typography test page")
-            ],
-
             "themes" => [
                 "text" => t("Themes"),
                 "url" => $this->di->get("url")->create("theme"),
                 "title" => t("Page about themes")
-            ],
-
-            "images" => [
-                "text" => t("Images"),
-                "url" => $this->di->get("url")->create("images"),
-                "title" => t("Page with images")
             ],
         ],
     ],
@@ -79,13 +48,6 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "report" => [
-                "text"  => t("Report"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
-                "mark-if-parent" => true,
-            ],
-
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -98,34 +60,10 @@ return [
                 "title" => t("The blog")
             ],
 
-            "analysis" => [
-                "text" => t("Analysis"),
-                "url" => $this->di->get("url")->create("analysis"),
-                "title" => t("Color analyses")
-            ],
-
-            "grid" => [
-                "text" => t("Grid"),
-                "url" => $this->di->get("url")->create("grid"),
-                "title" => t("Grid test page")
-            ],
-
-            "typography" => [
-                "text" => t("Typography"),
-                "url" => $this->di->get("url")->create("typography"),
-                "title" => t("Typography test page")
-            ],
-
             "themes" => [
                 "text" => t("Themes"),
                 "url" => $this->di->get("url")->create("theme"),
                 "title" => t("Page about themes")
-            ],
-
-            "images" => [
-                "text" => t("Images"),
-                "url" => $this->di->get("url")->create("images"),
-                "title" => t("Page with images")
             ],
         ],
     ],

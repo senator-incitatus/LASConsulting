@@ -30,7 +30,7 @@ views:
                 view: blog-list
 
 ...
-Photo Blog
+Thoughts & Theories
 ===========================
 
-A place of nothing, really.
+A place where the LAS Consulting team offers their thoughts on relevant subject matters and theories, or offer the occasional bit of exciting news.

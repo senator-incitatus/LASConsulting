@@ -1,5 +1,6 @@
-Copyright &copy; 2017 Incitatus
+&copy; 2018 LAS Consulting<br />
+Website & Design by Incitatus
 
-* [License](license) &bullet;
-* [Cookies](cookies) &bullet;
+* [License](license)
+* [Cookies](cookies)
 * [Contact](contact)
